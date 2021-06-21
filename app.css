@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.provide{
+    position: absolute;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    width: 550px;
+    height: 110px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    line-height: 37px;
+    top: 284px;
+    left: 244px;
+
+    color: black;
+}
+
+.Intergrity{
+    position: absolute;
+    width: 249px;
+    height: 172px;
+    left: 244px;
+    top: 584px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    color: black;
+}
+
+.contain{
+    position: absolute;
+    width: 600px;
+    height: 270px;
+    left: 184px;
+    top: 535px;
+    background: #F8F6F9;
+    box-shadow: 1px 6px 28px 2px
+    rgba( 0, 0, 0, 0.25);
+    border-radius: 0px 24px 24px 0px;
+}
+
+.container{
+    position: absolute;
+    width: 600px;
+    height: 270px;
+    left: 184px;
+    top: 201px;
+    background: #F8F6F9;
+    box-shadow: 1px 6px 28px 2px
+    rgba( 0, 0, 0, 0.25);
+    border-radius: 0px 24px 24px 0px;
+}
+
+.white{
+    position: absolute;
+    background: white;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 2046px;
+}
+
+
+.mission{
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 2046px;
+    color: white;
+}
+
+.value{
+    position: absolute;
+    width: 342px;
+    height: 234px;
+    left: 980px;
+    top: 387px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 78px;
+    font-size: 64px;
+    font-weight: 900;
+    font-style: normal;
+    color: white;
+
+} 
+
+.purple{
+    position: absolute;
+    width: 704px;
+    height: 1024px;
+    left: 736px;
+    top: -2px;
+    z-index: -1;
+    background: rgba(156, 39, 176, 0.8)
+}
+
+.picture{
+    position: absolute;
+    width: 704px;
+    height: 1000%;
+    left: 736px;
+    top: -2px;
+    z-index: -1;
+    background: no-repeat;
+    background: url('_The-Best-Samsung-Galaxy-S20-Ultra-Cases.jpg');
+}
+
+.box{
+    position: absolute;
+    width: 676px;
+    height: 604px;
+    left: 184px;
+    top: 201px;
+}
