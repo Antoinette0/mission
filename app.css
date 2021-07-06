@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 .provide{
     position: absolute;
     font-size: 30px;
@@ -12,9 +13,8 @@ body{
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     line-height: 37px;
-    top: 284px;
+    top: 200px;
     left: 244px;
-
     color: black;
 }
 
@@ -23,7 +23,7 @@ body{
     width: 249px;
     height: 172px;
     left: 244px;
-    top: 584px;
+    top: 400px;
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -35,9 +35,9 @@ body{
 .contain{
     position: absolute;
     width: 600px;
-    height: 270px;
+    height: 230px;
     left: 184px;
-    top: 535px;
+    top: 400px;
     background: #F8F6F9;
     box-shadow: 1px 6px 28px 2px
     rgba( 0, 0, 0, 0.25);
@@ -47,31 +47,21 @@ body{
 .container{
     position: absolute;
     width: 600px;
-    height: 270px;
+    height: 230px;
     left: 184px;
-    top: 201px;
+    top: 150px;
     background: #F8F6F9;
     box-shadow: 1px 6px 28px 2px
     rgba( 0, 0, 0, 0.25);
     border-radius: 0px 24px 24px 0px;
 }
 
-.white{
-    position: absolute;
-    background: white;
-    width: 1440px;
-    height: 1024px;
-    left: 0px;
-    top: 2046px;
-}
-
 
 .mission{
     position: absolute;
     width: 1440px;
-    height: 1024px;
+   
     left: 0px;
-    top: 2046px;
     color: white;
 }
 
@@ -79,8 +69,8 @@ body{
     position: absolute;
     width: 342px;
     height: 234px;
-    left: 980px;
-    top: 387px;
+    left: 900px;
+    top: 200px;
     font-family: 'Montserrat', sans-serif;
     line-height: 78px;
     font-size: 64px;
@@ -92,8 +82,8 @@ body{
 
 .purple{
     position: absolute;
-    width: 704px;
-    height: 1024px;
+    width: 500px;
+    height: 100%;
     left: 736px;
     top: -2px;
     z-index: -1;
@@ -102,19 +92,11 @@ body{
 
 .picture{
     position: absolute;
-    width: 704px;
-    height: 1000%;
+    width: 500px;
+    height: 100%;
     left: 736px;
     top: -2px;
     z-index: -1;
-    background: no-repeat;
     background: url('_The-Best-Samsung-Galaxy-S20-Ultra-Cases.jpg');
 }
 
-.box{
-    position: absolute;
-    width: 676px;
-    height: 604px;
-    left: 184px;
-    top: 201px;
-}
